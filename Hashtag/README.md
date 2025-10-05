@@ -31,6 +31,7 @@ This project demonstrates my ability to **translate design into a fully function
 ---
 
 ## 📂 Project Structure---
+```
 Hashtag/
 │
 ├── index.html         # Main HTML file
@@ -41,6 +42,7 @@ Hashtag/
 │   └── main.js         # Custom JS for scroll, navbar, carousel
 ├── images/             # All images and assets
 
+```
 ---
 
 
