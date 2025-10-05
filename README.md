@@ -16,7 +16,7 @@ Each project explores different UI components, layouts, and styling approaches u
 ## 🎨 Projects Included
 | No. | Project Name | Live Demo | Folder Link |
 |-----|---------------|-----------|--------------|
-| 1 | Hashtag | [View Live](https://shivamsharma020.github.io/bootstrap-ui-portfolio/Hashtag/) | [/Hashtag](./hashtag) |
+| 1 | Hashtag | [View Live](https://shivamsharma020.github.io/bootstrap-ui-portfolio/Hashtag/) | [/Hashtag](./Hashtag) |
 | 2 | Landing Page | [View Live](https://shivamsharma020.github.io/bootstrap-ui-portfolio/landing-page/) | [/OneShot](./OneShot) |
 
 
