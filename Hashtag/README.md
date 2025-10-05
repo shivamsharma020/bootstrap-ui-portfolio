@@ -55,10 +55,12 @@ Hashtag/
 
 
 ## 🚀 How to View Locally
+```
   steps:
     - "Clone this repo: git clone https://github.com/shivamsharma020/bootstrap-ui-portfolio.git"
     - "Navigate to any project folder: cd project-folder-name"
     - "Open index.html in your browser"
+```
 ---
 📬 Contact
 Feel free to connect or provide feedback:
@@ -72,6 +74,3 @@ Feel free to connect or provide feedback:
 - Use the Folder links to explore code structure
 - Each project is modular and can be reused or adapted
 
----
-  NOTE:
-⚡ text: "If you like this repo, consider giving it a star — it motivates me to create more UI/UX designs!"
