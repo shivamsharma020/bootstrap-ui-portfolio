@@ -50,30 +50,20 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // APP-SCREEN
-var mySwiper = new Swiper(".swiper-container", {
-  loop: true,
-  speed: 1000,
-  autoplay: {
-    delay: 3000,
-  },
-  effect: "coverflow",
+var swiper = new Swiper(".mySwiper", {
+  effect: "cards",
   grabCursor: true,
-  centeredSlides: true,
-  slidesPerView: "auto",
-  coverflow: {
-    rotate: 0,
-    stretch: 80,
-    depth: 200,
-    modifier: 1,
-    slideShadows: false,
+  loop: true, // infinite loop
+  autoplay: {
+    delay: 2500, // 2.5 seconds per slide
+    disableOnInteraction: false,
   },
-
-  // Navigation arrows
-  navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
   },
 });
+
 // Side Navigation Bar Close While We click On Navigation Links
 
 let navBar = document.querySelectorAll(".nav-link");
